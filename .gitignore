@@ -1,0 +1,6 @@
+*.swp
+*.stl
+*.un~
+Session.vim
+.netrwhist
+*~
