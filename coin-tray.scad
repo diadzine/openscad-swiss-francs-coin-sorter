@@ -7,13 +7,13 @@
 
 /****** PARAMETERS ****/
 $fn = 50;
-print = 6;
+print = 1;
 thickness = 3;
 clearance = 0.1;
 
 // Coins dimensions array (5 cts, 50 cts, 10 cts, 20 cts, 1 chf, 2 chf, 5 chf)
 coins_diameter = [17.15, 18.20, 19.15, 21.05, 23.20, 27.40, 31.45];
-tray_height = [130, 65, 78, 86, 81, 112, 123];
+tray_height = [124, 62, 74, 84, 78, 108, 120];
 
 
 /****** MODULES ****/
